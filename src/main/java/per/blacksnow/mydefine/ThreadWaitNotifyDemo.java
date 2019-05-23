@@ -1,4 +1,4 @@
-package per.blacksnow.thread;
+package per.blacksnow.mydefine;
 /**
  * 测试wait/notify
  */
